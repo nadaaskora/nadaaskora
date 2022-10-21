@@ -5,12 +5,10 @@
 I am a Software Engineer whose primary area of expertise is Front-End and A life-long learner with a curious mind, always up for new challenges 🐱‍🏍
 
 ### Connect with me:
-<img align="left" alt="linkedin" width="26px" src="./img/linkedIn.svg" style="padding-right:10px;" />
-<img align="left" alt="hashnode" width="26px" src="./img/hashnode.svg" style="padding-right:10px;" />
-<img align="left" alt="stackoverflow" width="26px" src="./img/stackoverflow.svg" style="padding-right:10px;" />
+[![LinkedIn](./img/linkedin.svg)](https://www.linkedin.com/in/nadaaskora/)
+[![stackoverflow](./img/stackoverflow.svg)](https://stackoverflow.com/users/7999963/nada-askora/)
+[![LinkedIn](./img/hashnode.svg)](https://nadaaskora.hashnode.dev/)
 
-<br/>
-<br/>
 
 ### Most Used Languages and Tools:
 
