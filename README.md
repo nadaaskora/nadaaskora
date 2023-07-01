@@ -9,10 +9,10 @@ I am a Software Engineer whose primary area of expertise is Front-End and A life
 [![stackoverflow](./img/stackoverflow.svg)](https://stackoverflow.com/users/7999963/nada-askora/)
 [![LinkedIn](./img/hashnode.svg)](https://nadaaskora.hashnode.dev/)
 
-
+<!--
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,materialui,js,react,graphql,nextjs,nodejs,mongodb,firebase,mysql)](https://skillicons.dev)
-
+-->
 
 <!--
 **nadaaskora/nadaaskora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
